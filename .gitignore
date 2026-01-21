@@ -1,0 +1,14 @@
+
+build/
+.gradle/
+*.jar
+
+
+.env
+
+.docker/
+
+
+.vscode/
+.idea/
+*.iml
